@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Madobe_sounds
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
